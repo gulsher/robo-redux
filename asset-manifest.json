@@ -1,7 +1,7 @@
 {
   "main.css": "/robo-redux/static/css/main.6feda9f6.chunk.css",
-  "main.js": "/robo-redux/static/js/main.bdeb630f.chunk.js",
-  "main.js.map": "/robo-redux/static/js/main.bdeb630f.chunk.js.map",
+  "main.js": "/robo-redux/static/js/main.83c7130c.chunk.js",
+  "main.js.map": "/robo-redux/static/js/main.83c7130c.chunk.js.map",
   "static/js/1.f12bf432.chunk.js": "/robo-redux/static/js/1.f12bf432.chunk.js",
   "static/js/1.f12bf432.chunk.js.map": "/robo-redux/static/js/1.f12bf432.chunk.js.map",
   "static/css/2.a5e48d15.chunk.css": "/robo-redux/static/css/2.a5e48d15.chunk.css",
@@ -9,9 +9,9 @@
   "static/js/2.cddf46e9.chunk.js.map": "/robo-redux/static/js/2.cddf46e9.chunk.js.map",
   "runtime~main.js": "/robo-redux/static/js/runtime~main.dff3011e.js",
   "runtime~main.js.map": "/robo-redux/static/js/runtime~main.dff3011e.js.map",
-  "static/css/2.a5e48d15.chunk.css.map": "/robo-redux/static/css/2.a5e48d15.chunk.css.map",
   "static/css/main.6feda9f6.chunk.css.map": "/robo-redux/static/css/main.6feda9f6.chunk.css.map",
+  "static/css/2.a5e48d15.chunk.css.map": "/robo-redux/static/css/2.a5e48d15.chunk.css.map",
   "index.html": "/robo-redux/index.html",
-  "precache-manifest.58dc0f1ef6b65ac1cb44a7feff55e52f.js": "/robo-redux/precache-manifest.58dc0f1ef6b65ac1cb44a7feff55e52f.js",
+  "precache-manifest.ef8e33cb3ef98a6449833b1db3951817.js": "/robo-redux/precache-manifest.ef8e33cb3ef98a6449833b1db3951817.js",
   "service-worker.js": "/robo-redux/service-worker.js"
 }
